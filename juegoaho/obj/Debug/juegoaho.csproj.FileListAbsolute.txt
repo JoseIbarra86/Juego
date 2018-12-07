@@ -1,0 +1,11 @@
+C:\Users\Usuerio\Desktop\juegoaho\juegoaho\obj\Debug\juegoaho.csprojAssemblyReference.cache
+C:\Users\Usuerio\Desktop\juegoaho\juegoaho\obj\Debug\juegoaho.Form1.resources
+C:\Users\Usuerio\Desktop\juegoaho\juegoaho\obj\Debug\juegoaho.Form2.resources
+C:\Users\Usuerio\Desktop\juegoaho\juegoaho\obj\Debug\juegoaho.Properties.Resources.resources
+C:\Users\Usuerio\Desktop\juegoaho\juegoaho\obj\Debug\juegoaho.csproj.GenerateResource.cache
+C:\Users\Usuerio\Desktop\juegoaho\juegoaho\obj\Debug\juegoaho.csproj.CoreCompileInputs.cache
+C:\Users\Usuerio\Desktop\juegoaho\juegoaho\bin\Debug\juegoaho.exe.config
+C:\Users\Usuerio\Desktop\juegoaho\juegoaho\bin\Debug\juegoaho.exe
+C:\Users\Usuerio\Desktop\juegoaho\juegoaho\bin\Debug\juegoaho.pdb
+C:\Users\Usuerio\Desktop\juegoaho\juegoaho\obj\Debug\juegoaho.exe
+C:\Users\Usuerio\Desktop\juegoaho\juegoaho\obj\Debug\juegoaho.pdb
